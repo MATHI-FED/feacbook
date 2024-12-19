@@ -1,0 +1,75 @@
+.box{
+    border: 2px solid black;
+    border-radius: 20px;
+    height: 300px;
+    width: 355px;
+    margin-left: 650px;
+    margin-bottom: 0.1000px;
+}
+img{
+    width: 300px;
+    
+}
+#about{
+    /* margin-top: 100px;p */
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+#para{
+   color: rgb(20, 20, 20);
+   font-family:Verdana, Geneva, Tahoma, sans-serif;
+    /* margin-right:00px; */
+    margin-left: 700px;
+}
+#email{
+    width: 330px;
+    margin: 11px;
+    height: 30px;
+}
+#number{
+    width: 330px;
+    margin:10px;
+    height: 30px;
+    
+;
+}
+#box6{
+    /* margin: 11px; */
+    margin-left: 10px;
+    width: 340px;
+    height: 40px;
+    background-color: #0866ff;
+    color: #ffffff;
+}
+hr{
+    width: 320px;
+    /* border:px solid black; */
+}
+#pass{
+    margin-left: 110px; 
+    width: 330px;
+    font-family:inherit;
+
+}
+#box5{
+    margin: 11px;
+    margin-left: 10px;
+    width: 340px;
+    height: 40px;
+    background-color: #42b72a;
+    color: #ffffff;
+}
+#box1{
+    margin: px;
+    height: 106px;
+}
+.grid-container{
+    background-color: #e2f2ff95;
+    height: 100vh;
+}
+#box7{
+    background-color: #ffffff;
+    border-radius: 21px;
+    height: 300px;
+    background-clip: border-box;
+}
